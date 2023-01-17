@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Gabriel-Rossi-dev/Gabriel-Rossi-dev/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriel-Rossi-dev/Gabriel-Rossi-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gabriel Rossi Diniz Costa, known as @Gabriel-Rossi-dev.<br>I'm a curious guy and I really like to learn new things. I feel like a problem solver, and helping people is the best way to learn and practice. <br>👀 I’m interested in create apps who give the experience to the user that reminds how time is special and every second counts. So the focus is in the user experience and facility to workflow.<br> 🌱 Kotlin Mobile.<br>
+👋 Hi, I’m Gabriel Rossi Diniz Costa, known as @Gabriel-Rossi-dev.<br>I'm a curious guy and I really like to learn new things. I feel like a problem solver, and helping people is the best way to learn and practice. <br>👀 I’m interested in create apps who give the experience to the user that reminds how time is special and every second counts. So the focus is in the user experience and facility to workflow.<br> 🌱 Mobile.<br>
 
 
 ## 🌐 Socials:
